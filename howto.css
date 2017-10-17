@@ -1,0 +1,43 @@
+
+.body {
+    Margin: 20px;
+    font-family:"PT Sans Narrow", sans-serif;
+}
+      .outer-box{
+        background-color:grey;
+        margin:10px;
+        min-height:300px;
+      }
+      .name {
+        color:white;
+        font-family:tahoma;
+        margin-left:20px;
+        padding:10px;
+      }
+      .picture {
+        margin-left:20px;
+        float:left;
+        margin-right:20px;
+        margin-bottom:10px;
+        border:2px solid black;
+      }
+      .bio {
+        font-family:tahoma;
+        padding-left:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+      }
+      img {
+        display:block;
+      }
+      h1 { font-family: 'Stalinist One', cursive;
+      }
+      h2 { font-family:Passion One, cursive;
+      }
+      h3 { font-family: 'Lobster', cursive;
+      }
+     ul {list-style-type:square
+      }
+     #Ad {float:right;
+          margin-right: 5px;
+    ` }
